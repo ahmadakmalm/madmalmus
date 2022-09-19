@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Nama    : Ahmad Akmal Musyahidin</h1>
+<h1>Nama    : AHAMAD AKMAL MUSYAHIDIN</h1>
 <h1>NIM     : 213210002</h1>
 <h1>Prodi   : Sistem Informasi Akuntansi</h1>
 
